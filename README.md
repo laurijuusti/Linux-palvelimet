@@ -3,6 +3,17 @@
 ## Asennusympäristö: Käyttöjärjestelmänä toimii Windows 11 Pro, virtualisointiohjelmana toimii VMware Workstation 17 Player.
 
 
+## a) Raportin kirjoittaminen -artikkelin tiivistäminen
+ - Selkeät, helppolukuiset ja tarkat ohjeet siitä mitä on tehty
+ - Kellonajat on hyvä olla mukana, jotta saa kuvan käytetystä ajasta
+ - Kuvat ovat hyviä visualisoimaan tekemistä
+ -
+ 
+ 
+
+
+
+## b) Asennus
 Klo 19.39, latasin Debian 11.6 .iso-tiedoston AMD64 prosessoriarkkitehtuuria varten KDE-työpöydällä Debianin nettisivuilta osoitteesta https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/
 
 Klo 19.47, latauksen valmistuttua aloitin virtuaalikoneen luomisen:
@@ -36,6 +47,7 @@ Klo 20.06, asennus oli valmis.
 
 ![image](https://user-images.githubusercontent.com/122888655/212977474-57649311-2e97-448a-b1ec-d21cb1aeee37.png)
 
+## Asennuksen jälkeiset toimenpiteet
 
 Klo 20.12, avasin selaimen, testasin oheislaitteiden ja internetyhteyden toimimista. 
 
@@ -50,43 +62,41 @@ Samalla asensin palomuurin ja käynnistin virtuaalikoneen uudelleen:
 ![image](https://user-images.githubusercontent.com/122888655/212979559-7e37cb5a-cbcf-4feb-b2e1-8daa8479c888.png)
 
 
+## VMware Tools-paketin asennus (VMwaren VirtualBox Guest Additionsia vastaava paketti)
+
+Klo 20.23, virtuaalikoneen asetuksista valitsin Player --> Manage --> Install VMware Tools...
+
+![image](https://user-images.githubusercontent.com/122888655/212980502-249dc4b3-ca24-4870-98b4-45c4a80380b4.png)
+
+Tämä näkymä tuli ruudulle:
+
+![image](https://user-images.githubusercontent.com/122888655/212980628-e87afd2c-077b-45dc-89ed-f42ab1eda5e5.png)
+
+Mounttasin levyn painamalla "Mount", etsin levyn, siirsin levyn sisällön työpöydälle sekä purin tar-paketin käyttöjärjestelmän mukana tullutta Dolphin -File Exploreria käyttäen. (hiiren oikea näppäin tar-paketin päällä --> Extract --> Extract archive here)
+
+Tämä loi kansion "vmware-tools-distrib", joka on kuvassa.
+
+![image](https://user-images.githubusercontent.com/122888655/212992174-60719fe6-d508-46ff-945f-df7dfd2ea07d.png)
 
 
+Navigoin terminaalissa oikeaan kansioon  "ls" ja "cd" -komentoja käyttäen ja käynnistin asennuksen komennolla
+
+        $ sudo ./vmware-install.pl
+
+![image](https://user-images.githubusercontent.com/122888655/212986215-f0dd5ec9-b32d-45bc-b9ce-5f5587b7d1f2.png)
+
+Asennusohjelma käynnistyi, annoin sen tehdä kaiken oletuskansioihin painamalla Enter tai syöttämällä Yes (riippuen kysymyksestä):
 
 
+![image](https://user-images.githubusercontent.com/122888655/212986345-7b5a46fa-cfbd-4280-8a83-037ee8adc012.png)
+
+![image](https://user-images.githubusercontent.com/122888655/212986754-d60acf10-7ff6-43dc-a3db-b6f9dace8e95.png)
+
+![image](https://user-images.githubusercontent.com/122888655/212987670-c65a2736-a6c3-4378-a8cf-9967fdcfb164.png)
 
 
+### Klo 21.05, Asennus valmistui. Nyt voi vaihtaa virtuaalikoneen resoluutiota, sekä leikata + liittää pääkoneesta:
 
+![image](https://user-images.githubusercontent.com/122888655/212987373-fd6ff959-284a-42fb-91ae-c29b45174edc.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Kaikki valmista!
