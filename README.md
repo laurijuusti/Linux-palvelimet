@@ -7,11 +7,6 @@
  - Selkeät, helppolukuiset ja tarkat ohjeet siitä mitä on tehty
  - Kellonajat on hyvä olla mukana, jotta saa kuvan käytetystä ajasta
  - Kuvat ovat hyviä visualisoimaan tekemistä
- -
- 
- 
-
-
 
 ## b) Asennus
 Klo 19.39, latasin Debian 11.6 .iso-tiedoston AMD64 prosessoriarkkitehtuuria varten KDE-työpöydällä Debianin nettisivuilta osoitteesta https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/
