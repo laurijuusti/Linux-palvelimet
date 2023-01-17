@@ -1,6 +1,10 @@
 # Raportti 1, Debianin asennus virtuaalikoneelle (17.01.2023)
 
-## Asennusympäristö: Käyttöjärjestelmänä toimii Windows 11 Pro, virtualisointiohjelmana toimii VMware Workstation 17 Player.
+### OS: Windows 11 Pro
+### Virtualisointi: VMware Workstation 17 Player
+### Tietokone: Intel i7-6700 @ 3.40GHz, 16GB DDR4, NVIDIA GTX 970 
+
+
 
 
 ## a) Raportin kirjoittaminen -artikkelin tiivistäminen
