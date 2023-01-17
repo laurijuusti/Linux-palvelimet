@@ -59,7 +59,7 @@ Samalla asensin palomuurin ja käynnistin virtuaalikoneen uudelleen:
 
 ## VMware Tools-paketin asennus (VMwaren VirtualBox Guest Additionsia vastaava paketti)
 
-Klo 20.23, virtuaalikoneen asetuksista valitsin Player --> Manage --> Install VMware Tools...
+Klo 20.23, VMwaren yläpalkista valitsin Player --> Manage --> Install VMware Tools...
 
 ![image](https://user-images.githubusercontent.com/122888655/212980502-249dc4b3-ca24-4870-98b4-45c4a80380b4.png)
 
