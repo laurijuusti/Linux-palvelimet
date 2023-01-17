@@ -44,7 +44,7 @@ Klo 20.06, asennus oli valmis.
 
 ## Asennuksen jälkeiset toimenpiteet
 
-Klo 20.12, avasin selaimen, testasin oheislaitteiden ja internetyhteyden toimimista. 
+Klo 20.12, avasin selaimen, testasin hiiren/näppäimistön ja internetyhteyden toimimista. 
 
 ![image](https://user-images.githubusercontent.com/122888655/212978587-b97a438a-3ab3-41af-ad9d-77d18ae350d9.png)
 
