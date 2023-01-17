@@ -50,7 +50,7 @@ Klo 20.12, avasin selaimen, testasin hiiren/näppäimistön ja internetyhteyden 
 
 Klo 20.15, kokeilin pakettien päivittämistä ja ne olivat jo valmiiksi ajan tasalla.
 
-![image](https://user-images.githubusercontent.com/122888655/212979036-be8ec4e8-bc62-4743-8db5-f72714115d6c.png)
+![image](https://user-images.githubusercontent.com/122888655/212999340-b791f7be-5846-4183-aa88-7a8ba33ace22.png)
 
 Samalla asensin palomuurin ja käynnistin virtuaalikoneen uudelleen:
 
