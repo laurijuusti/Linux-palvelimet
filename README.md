@@ -54,7 +54,7 @@ Klo 20.15, kokeilin pakettien päivittämistä ja ne olivat jo valmiiksi ajan ta
 
 Samalla asensin palomuurin ja käynnistin virtuaalikoneen uudelleen:
 
-![image](https://user-images.githubusercontent.com/122888655/212979559-7e37cb5a-cbcf-4feb-b2e1-8daa8479c888.png)
+![image](https://user-images.githubusercontent.com/122888655/212999926-d201e057-00cb-4fd4-ae98-989e5fe97519.png)
 
 
 ## VMware Tools-paketin asennus (VMwaren VirtualBox Guest Additionsia vastaava paketti)
