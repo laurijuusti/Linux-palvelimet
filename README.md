@@ -15,7 +15,7 @@ Klo 19.47, latauksen valmistuttua aloitin virtuaalikoneen luomisen:
 
 ![image](https://user-images.githubusercontent.com/122888655/212973646-9b1e3185-42d6-47db-8de2-881c457998eb.png)
 
-Tässä näkyy virtuaalikoneen asetukset, annoin sille 4GB RAM-muistia, 60GB dynaamisen kovalevyn ja 2 prosessoriydintä:
+Tässä näkyy virtuaalikoneen asetukset, annoin sille 4GB RAM-muistia, 60GB dynaamisen kovalevyn ja 2 prosessoriydintä. Muut asetukset ovat vakioita, jotka VMware laittoi:
 
 ![image](https://user-images.githubusercontent.com/122888655/212973831-cdaea1a4-bf54-484c-a94c-c28978fc9e7e.png)
 
