@@ -72,16 +72,16 @@ Tämä näkymä tuli ruudulle:
 
 ![image](https://user-images.githubusercontent.com/122888655/212980628-e87afd2c-077b-45dc-89ed-f42ab1eda5e5.png)
 
-Mounttasin levyn painamalla "Mount", etsin levyn, siirsin levyn sisällön työpöydälle sekä purin tar-paketin käyttöjärjestelmän mukana tullutta Dolphin -File Exploreria käyttäen. (hiiren oikea näppäin tar-paketin päällä --> Extract --> Extract archive here)
+Mounttasin levyn painamalla "Mount", etsin levyn, siirsin levyn sisällön työpöydälle sekä purin tar-paketin käyttöjärjestelmän mukana tullutta Dolphin -File Exploreria käyttäen. (Työpöydällä hiiren oikean painikkeen painaminen tar-paketin päällä --> Extract --> Extract archive here)
 
 Tämä loi kansion "vmware-tools-distrib", joka on kuvassa.
 
 ![image](https://user-images.githubusercontent.com/122888655/212992174-60719fe6-d508-46ff-945f-df7dfd2ea07d.png)
 
 
-Navigoin terminaalissa oikeaan kansioon  "ls" ja "cd" -komentoja käyttäen ja käynnistin asennuksen komennolla
+Navigoin terminaalissa oikeaan kansioon "ls" ja "cd" -komentoja käyttäen ja käynnistin asennuksen komennolla
 
-        $ sudo ./vmware-install.pl
+    $ sudo ./vmware-install.pl
 
 ![image](https://user-images.githubusercontent.com/122888655/212986215-f0dd5ec9-b32d-45bc-b9ce-5f5587b7d1f2.png)
 
