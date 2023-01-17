@@ -11,7 +11,7 @@
 ## b) Asennus
 Klo 19.39, latasin Debian 11.6 .iso-tiedoston AMD64 prosessoriarkkitehtuuria varten KDE-työpöydällä Debianin nettisivuilta osoitteesta https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/
 
-Klo 19.47, latauksen valmistuttua aloitin virtuaalikoneen luomisen:
+Klo 19.47, latauksen valmistuttua aloitin virtuaalikoneen luomisen, valitsin oikean .iso -tiedoston:
 
 ![image](https://user-images.githubusercontent.com/122888655/212973646-9b1e3185-42d6-47db-8de2-881c457998eb.png)
 
