@@ -10,7 +10,7 @@
 - Valitsin jakson "Making a full-time income working just one day per week - Ramy Khuffash, Page Flows", jossa puhuttiin Ramy Khuffashin yrityksestä.
 - Hän perusti yrityksen "Page Flows", joka tarjoaa visualisaatioita eri sovellusten ja applikaatioiden käyttäjien kulusta.
 - Visualisaatio voi esimerkiksi olla video käyttäjän luonnista johonkin mobiiliapplikaatioon, eli mitä pitää painaa, miten se tapahtuu, mitä voisi parantaa tai  ottaa omaan tuotteeseen malliksi.
-- Palvelu maksaa 99$ vuodessa, tai 39$ per kolme kuukautta. 
+- Palvelu maksaa 99$ vuodeksi, tai 39$ kolmeksi kuukaudeksi. 
 - Podcastissa puhuttiin lisäksi myös siitä miksi Ramy teki 6 startupyritystä kuudessa kuukaudessa ja esim. hänen historiasta startupyritysten kanssa.
 
 ## a) Apachen esimerkkisivu (klo 21.10)
