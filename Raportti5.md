@@ -5,9 +5,13 @@
 ### Host-tietokone: Intel i7-6700 @ 3.40GHz, 16GB DDR4, NVIDIA GTX 970
 ### VM: 4GB RAM, 2 prosessoriydintä
 
-## x) Indie Hackers -podcastjakson tiivistäminen (klo. )
+## x) Indie Hackers -podcastjakson tiivistäminen (klo. 22.23, keskiviikkona 1.2)
 
-
+- Valitsin jakson "Making a full-time income working just one day per week - Ramy Khuffash, Page Flows", jossa puhuttiin Ramy Khuffashin yrityksestä.
+- Hän perusti yrityksen "Page Flows", joka tarjoaa visualisaatioita eri sovellusten ja applikaatioiden käyttäjien kulusta.
+- Visualisaatio voi esimerkiksi olla video käyttäjän luonnista johonkin mobiiliapplikaatioon, eli mitä pitää painaa, miten se tapahtuu, mitä voisi parantaa tai  ottaa omaan tuotteeseen malliksi.
+- Palvelu maksaa 99$ vuodessa, tai 39$ per kolme kuukautta. 
+- Podcastissa puhuttiin lisäksi myös siitä miksi Ramy teki 6 startupyritystä kuudessa kuukaudessa ja esim. hänen historiasta startupyritysten kanssa.
 
 ## a) Apachen esimerkkisivu (klo 21.10)
 
@@ -45,7 +49,7 @@ Joka lisää käyttäjän "laurintesti1" järjestelmään.
 
 Kuvankaappaus koko käyttäjän lisäämisprosessista. Uuden käyttäjän userid on 1001, eli yksi isompi kuin oman käyttäjäni. Kysyy tietenkin salasanan käyttäjälle, sekä hieman muita satunnaisia tietoja. Piti Googlata että minkä takia komento kysyy huoneen numeroa, vaikuttaisi olevan joku jäännös Unix-järjestelmien alkuajoilta :D
 
-## d) Validi HTML5 (21.32)
+## d) Validi HTML5 (klo. 21.32)
 
 Muokkasin public_html -kansion sisällä olevaa tiedostoa "index.html", ja lisäsin sinne hieman HTMLää.
 
@@ -56,8 +60,9 @@ Muokkasin public_html -kansion sisällä olevaa tiedostoa "index.html", ja lisä
 
 Tarkistin sen vielä W3Schools:n HTML-validaattorilla, ja läpi meni.
 
-## Tiivistelmä, Valmista (klo. )
+## Tiivistelmä, Valmista (klo. 22.44 keskiviikkona 1.2)
 
+Tässä raportissa tiivistin podcastjakson, muokkasin Apachen kotisivua, muokkasin käyttäjän kotisivua, loin käyttöjärjestelmään uuden käyttäjän, ja tein pienen HTML5 -sivun käyttäjäni kotisivulle.
 
 ## Lähteet 
 
@@ -66,3 +71,11 @@ https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h5-hello-web
 https://www.geeksforgeeks.org/tee-command-linux-example/
 
 https://www.quora.com/What-does-room-number-stands-for-when-setting-up-a-new-account-on-Ubuntu
+
+https://indiebites.com/12
+
+https://pageflows.com/
+
+https://pageflows.com/learn-more/
+
+
