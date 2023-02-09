@@ -7,7 +7,14 @@
 
 
 
-## a) Lue ja tiivistä (klo. x)
+## a) Lue ja tiivistä (klo. 19.31)
+
+ - AINA hyvät salasanat!
+ - GitHub Educationista saa domaineja, kannattaa ottaa käyttöön. 
+ - SSH-portti pitää avata
+ - Käyttäjä pitää lisätä
+ - Root-käyttäjä sulkea
+ - Paketit päivittää
 
 ## a) Vuokraa oma palvelin (klo. 18.15)
 
