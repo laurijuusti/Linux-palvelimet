@@ -85,7 +85,7 @@ Myöskään Apachen access- tai errorlokeissa ei näkynyt mitään erikoista (ai
 
 ## Valmista tuli (klo. 19.14), tiivistys ja lähteet 
 
-Pistin VPS:n pyörimään DigitalOceania käyttäen, pääsin koneeseen sisälle omalta koneeltani, asensin Apachen, leikin palomuurilla, ja katselin lokeja.
+Pistin VPS:n pyörimään DigitalOceania käyttäen, pääsin koneeseen sisälle omalta koneeltani ssh:ta käyttäen, asensin Apachen, leikin palomuurilla, ja katselin lokeja.
 
 https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h6-real-internettm
 
