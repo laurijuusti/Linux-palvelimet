@@ -66,19 +66,7 @@ Asensin Apachen, käynnistin Apachen ja vaihdoin kotisivun komennoilla
 
       $ sudo apt install apache2, sudo systemctl start apache2, echo 'Tehtävä 7' | sudo tee /var/www/html/index.html
 
-Sitten kokeilin host-koneen selaimella mennä sivulle, se ei tosin vielä toiminut
-
-![kuva](https://user-images.githubusercontent.com/122888655/217883069-2e03af5e-467a-49b3-a138-587a3037921c.png)
-
-Sivun curlaus kuitenkin toimi. 
-
-![kuva](https://user-images.githubusercontent.com/122888655/217883845-d5df9ae3-1ce2-448f-85ac-f752b58d764e.png)
-
-En tiennyt mikä on vikana, joten käynnistin VPS:n uudelleen ja kokeilin lisätä palomuuriin reiän uudestaan, mutta sain vastaukseksi 'Skipping adding existing rule'.
-
-    $ sudo reboot, sudo ufw allow 80/tcp
-    
-Näiden jälkeen se kuitenkin alkoi toimia, pääsin näkemään sivun host-koneeltani. (Ääkkösten näyttäminen ei onnistu jostain syystä...)
+Pääsin näkemään sivun host-koneeltani. (Ääkkösten näyttäminen ei onnistu jostain syystä...)
     
 ![kuva](https://user-images.githubusercontent.com/122888655/217884124-67327506-7c91-4d64-bd36-f312ac5a438e.png)
 
