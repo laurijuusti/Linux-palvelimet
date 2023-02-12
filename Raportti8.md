@@ -29,6 +29,8 @@ En nyt ollut ihan varma onko tämä täysin oikea ja paras tapa saada sivu näky
 
 ## b) Tutki tietoja
 
+      $ host juusti.me
+
 Host -komento näyttää sivuston IP-osoitteen, eli vuokraamani palvelimen osoitteen, ja näköjään myös jotain e-mailiin liittyen mutta siihen en ole perehtynyt. 
 
 ![image](https://user-images.githubusercontent.com/122888655/218339845-56ab8185-4dae-44f2-8639-554030e981b9.png)
