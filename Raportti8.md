@@ -22,7 +22,7 @@ Palvelimella on Apache asennettuna, ja laitoin /etc/apache2/sites-available/etus
 
       $ ServerName juusti.me
       
-En nyt ollut ihan varma onko tämä täysin oikea ja paras tapa saada sivu näkymiin, mutta taisin kuitenkin onnistua koska sivu kuitenkin näkyy tietokoneella ja myös puhelimella eri verkon kautta. Tämä kaikki oli siis noin 1,5 tunnin selvittelyn, googlailun ja testailun tulos :D
+En nyt ollut ihan varma onko tämä täysin oikea ja paras tapa saada sivu näkymiin, mutta taisin kuitenkin onnistua koska sivu kuitenkin näkyy tietokoneella ja myös puhelimella eri verkon kautta.
 
 ![image](https://user-images.githubusercontent.com/122888655/218339210-17d2a33c-ff40-40f5-af8d-541c19f43a1a.png)
 
