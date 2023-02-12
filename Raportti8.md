@@ -7,7 +7,7 @@
 
 ## a) Domain
 
-### Kellonaikoja ei valitettavasti ole, kirjoittelen jälkeenpäin. Aikaa kului noin 2h.
+### Kellonaikoja ei valitettavasti ole, kirjoittelen raportin jälkeenpäin. Aikaa kului noin 2h.
 
 Tein Namecheapiin käyttäjän, ja ostin domainin 'juusti.me' ilmaiseksi GitHub Educationin kautta. 
 
