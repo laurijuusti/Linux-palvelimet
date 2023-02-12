@@ -9,7 +9,7 @@
 
 ### Kellonaikoja ei valitettavasti ole, kirjoittelen raportin jälkeenpäin. Aikaa kului noin 2h.
 
-Tein Namecheapiin käyttäjän, ja ostin domainin 'juusti.me' ilmaiseksi GitHub Educationin kautta. 
+Tein Namecheapiin käyttäjän, linkitin GitHub-tilini ja ostin domainin 'juusti.me' ilmaiseksi GitHub Educationin kautta. 
 
 Menin domainin asetuksiin sivuston Dashboardista, valitsin 'Manage', sieltä edelleen 'Advanced DNS', ja laitoin Host Records -kohtaan vuokraamani palvelimen IP-osoitteen.
 
@@ -29,10 +29,27 @@ En nyt ollut ihan varma onko tämä täysin oikea ja paras tapa saada sivu näky
 
 ## b) Tutki tietoja
 
+Host -komento näyttää sivuston IP-osoitteen, eli vuokraamani palvelimen osoitteen, ja näköjään myös jotain e-mailiin liittyen mutta siihen en ole perehtynyt. 
+
+![image](https://user-images.githubusercontent.com/122888655/218339845-56ab8185-4dae-44f2-8639-554030e981b9.png)
+
+
+Digin asensin komennolla
+
+      $ sudo apt install dnsutils
+                 
+ja suoritin sen 
+
+      $ dig juusti.me
+      
+![image](https://user-images.githubusercontent.com/122888655/218339996-ecfd828b-3fbb-416b-9647-bbffe94baa1a.png)
+
+Komento näyttää myös muitakin tietoja IP:n lisäksi kuten kellonajan ja kuinka kauan datan saamiseen meni, ynnä muuta. 
 
 
 ## Tiivistelmä, Valmista
 
+Raportissa ostin domainin, linkitin sen serveriini, katsoin että sivu toimii domainin kautta, ja katsoin hieman DNS-tietoja.
 
 ## Lähteet 
 
