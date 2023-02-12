@@ -35,5 +35,11 @@ En nyt ollut ihan varma onko tämä täysin oikea ja paras tapa saada sivu näky
 
 https://serverfault.com/questions/470587/pointing-a-domain-name-to-a-vps
 
+https://www.namecheap.com/support/knowledgebase/article.aspx/207/48/how-to-set-up-personal-nameservers-vps-and-dedicated-servers/
 
+https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain/
+
+https://askubuntu.com/questions/117931/how-do-i-set-up-hosting-a-domain-name-at-home-with-apache
+
+https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h8-say-my-name
 
