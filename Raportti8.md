@@ -46,7 +46,7 @@ ja suoritin sen
       
 ![image](https://user-images.githubusercontent.com/122888655/218339996-ecfd828b-3fbb-416b-9647-bbffe94baa1a.png)
 
-Komento näyttää myös muitakin tietoja IP:n lisäksi kuten kellonajan ja kuinka kauan datan saamiseen meni, ynnä muuta. 
+Komento näyttää myös muitakin tietoja IP:n lisäksi kuten kellonajan ja kuinka kauan datan saamiseen meni.
 
 
 ## Tiivistelmä, Valmista
