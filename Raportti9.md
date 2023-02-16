@@ -1,8 +1,9 @@
 # Raportti 9, Sequel (Torstai 16.02.2023)
 
 ### OS: Windows 11 Pro 22H2
-### Virtualisointi: DigitalOcean Droplet, 1vCPU, 1GB RAM, 25GB SSD
+### Virtualisointi: VMware Workstation 17 Player
 ### Host-tietokone: Intel i7-6700 @ 3.40GHz, 16GB DDR4, NVIDIA GTX 970
+### VM: 4GB RAM, 2 prosessoriydintä
 
 ## a) Yrityssoftaa (klo 19.10)
 
@@ -18,7 +19,7 @@ Asensin ja käynnistin Postgren komennoilla
 
     $ sudo apt upgrade, sudo apt install postgresql, sudo systemctl start postgresql
     
-Tämän jälkeen loin uuden databasen ja käyttäjän komennoilla 
+Tämän jälkeen loin uuden tietokannan ja käyttäjän komennoilla 
 
 
     $ sudo -u postgres createuser lauri1, sudo -u postgres createdb lauri1
