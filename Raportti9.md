@@ -10,6 +10,9 @@
  - Amazonin EC2 Cloud computing -palvelu
  - Nettisivut joissa on login -toiminto, kuten vaikkapa GitHub
 
+Palveluiden skaalaaminen isommaksi tarvittaessa on todella helppoa.
+Palveluiden luomiseen on matala kynnys.
+
 
 ## b) Postgren asennus (19.20)
 
