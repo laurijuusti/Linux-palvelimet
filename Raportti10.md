@@ -70,7 +70,7 @@ Tein toisen käyttäjän samalla tavalla kuin edellisen, ja katsoin että täll�
 
 ![image](https://user-images.githubusercontent.com/122888655/221655829-d5549033-e74b-425e-86a2-6c0b58657da4.png)
 
-Käynnistin crm-applikaation, ja lisäsin kohdan 'crm' settings.py -tiedostoon 
+Käynnistin crm-applikaation, ja lisäsin kohdan 'crm' settings.py -tiedostoon. 
 
     $ ./manage.py startapp crm
 
@@ -87,7 +87,7 @@ Tein asiakastietokannalle migraation, piti varmistaa vielä että olen oikeassa 
 
 ![image](https://user-images.githubusercontent.com/122888655/221658181-cb064f60-05f9-488b-9113-c2b560938ded.png)
 
-Muokkasin admin.py -tiedostoa, jotta tietokanta näkyy
+Muokkasin admin.py -tiedostoa, jotta tietokanta näkyy.
 
 ![image](https://user-images.githubusercontent.com/122888655/221658779-28a7a930-6ece-49d4-9ee7-e167a0c52289.png)
 
@@ -105,6 +105,8 @@ Muokkasin vielä admin.py -tiedostoa hieman että asiakkaat saavat nimen. Toimii
 ## Valmista, tiivistys (klo. 21.13)
 
 Tässä raportissa asensin Djangon, loin projektin, käynnistin sen, loin käyttäjiä, loin asiakastietokannan ja tein testiasiakkaan.
+
+Kokonaisuudessaan aikaa meni noin 2 tuntia. 
 
 ## Lähteet 
 
