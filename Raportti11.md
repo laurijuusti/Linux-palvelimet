@@ -110,11 +110,9 @@ Toimii!
 
 <img width="776" alt="image" src="https://user-images.githubusercontent.com/122888655/222528417-ebf95be7-27b6-4513-a04d-14a167eb0ade.png">
 
+## Tiivistelmä (klo. 21.23)
 
-
-
-
-
+Tässä raportissa asensin apachen virtuaalikoneelle, asensin Djangon ja laitoin ne toimimaan yhdessä.
 
 
 
