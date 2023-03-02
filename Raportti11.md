@@ -1,4 +1,4 @@
-# Raportti 11, Deploy Django 4 - Production Install (Torstai 2.03.2023)
+# Raportti 11, Deploy Django 4 - Production Install (Torstai 2.3.2023)
 
 ### OS: MacOS 12.1 Monterey
 ### Virtualisointi: UTM 4.1.6
