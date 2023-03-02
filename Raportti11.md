@@ -1,7 +1,7 @@
 # Raportti 11, Deploy Django 4 - Production Install (Torstai 2.3.2023)
 
 ### OS: MacOS 12.1 Monterey
-### Virtualisointi: UTM 4.1.6
+### Virtualisointi: UTM 4.1.6 (https://mac.getutm.app)
 ### Host-tietokone: M1 MacBook Pro 13"
 ### VM: 2GB RAM, 2 prosessoriydintä
 
