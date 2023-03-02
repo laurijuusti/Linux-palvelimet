@@ -59,7 +59,13 @@ Kopioin artikkelissa olevan Virtualhost -tiedoston, ja muokkasin sitä omien kan
 
 <img width="654" alt="image" src="https://user-images.githubusercontent.com/122888655/222521009-09e3d7a5-0a30-4782-8c2e-bcf0c988a9b2.png">
 
-Asensin Apachen WSGI-moduulin, tarkistin syntaksin ja käynnistin Apachen uudelleen. Tämän jälkeen tarkistin, että Djangon asennus toimii. Seuraavaksi tarkistin Djangon pyörivän Apachella komennolla
+Asensin Apachen WSGI-moduulin, tarkistin syntaksin ja käynnistin Apachen uudelleen.
+
+    $ sudo apt-get -y install libapache2-mod-wsgi-py3
+    $ /sbin/apache2ctl configtest   
+    $ sudo systemctl restart apache2
+        
+Tämän jälkeen tarkistin, että Djangon asennus toimii. Seuraavaksi tarkistin Djangon pyörivän Apachella komennolla
 
     $ curl -sI localhost
 
