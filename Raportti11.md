@@ -80,7 +80,7 @@ Kuten artikkelissa, sivua ei enää löydy.
 
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/122888655/222526005-ed8d1dd8-cd0b-43bd-9652-0834b4f56910.png">
 
-localhost/admin löytyy, ja Djangon kirjautumissivu näkyy. Kuten viime kotitehtävän kanssa, loin superuser-käyttäjän Djangoon komennoilla
+localhost/admin löytyy, ja Djangon kirjautumissivu näkyy. Kuten viime kotitehtävässä, loin superuser-käyttäjän Djangoon komennoilla
 
     $ ./manage.py makemigrations
     $ ./manage.py migrate
