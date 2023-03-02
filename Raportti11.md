@@ -1,21 +1,21 @@
+# Raportti 11, Deploy Django 4 - Production Install (Torstai 2.03.2023)
 
-aloitin 19.30
+### OS: MacOS 12.1 Monterey
+### Virtualisointi: UTM 4.1.6
+### Host-tietokone: M1 MacBook Pro 13"
+### VM: 2GB RAM, 2 prosessoriydintä
 
-utm m1 macbook pro
+## a) Apache (klo 19.30)
 
-asensin debian11
-
-## Messing with Apache
-
-Päivitin paketit, asensin Apachen.   
+Päivitin paketit ja asensin Apachen.   
 
     $ sudo apt update & sudo apt install apache2 -y
     
-Vaihdoin defaultsivun sisällön: 
+Vaihdoin defaultsivun sisällön.
 
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/122888655/222513759-66a7fd88-df97-4df9-831a-628ed138fb2b.png">
 
-Loin kansiot uudelle sivulle:
+Loin kansiot uudelle sivulle.
 
 <img width="725" alt="image" src="https://user-images.githubusercontent.com/122888655/222515279-c1a43f29-f2a3-4f49-823d-3ee28c86aba5.png">
 
@@ -33,7 +33,7 @@ Toimii!
 
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/122888655/222517809-86bc9518-4cc8-4818-ab6f-7a180a015316.png">
 
- ### Djangon asennus
+ ### Django
  
  Asensin virtualenvin ja sitten Djangon virtualenvin sisälle.
  
@@ -66,11 +66,11 @@ Asensin Apachen WSGI-moduulin, tarkistin syntaksin ja käynnistin Apachen uudell
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/122888655/222522862-d7701bca-719e-457e-9274-a0ab0d62d146.png">
 
 
-Muokkasin settings py
+Muokkasin settings.py -tiedostoa.
  
  <img width="585" alt="image" src="https://user-images.githubusercontent.com/122888655/222524921-6ab5a1f5-40c3-4438-9847-76fd56fb4546.png">
 
-Minulla ei ole sivua jota haluan käyttää tällä hetkellä, joten laitan siihen vain "localhost".
+Minulla ei ole sivua jota haluan käyttää tällä hetkellä, joten laitan ALLOWED_HOSTS -kohtaan vain "localhost".
 
 Tallensin ja käynnistin Apachen taas uudelleen.
 
