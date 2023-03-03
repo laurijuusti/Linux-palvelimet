@@ -3,7 +3,7 @@
 ### OS: MacOS 12.1 Monterey
 ### Virtualisointi: UTM 4.1.6 (https://mac.getutm.app)
 ### Host-tietokone: M1 MacBook Pro 13"
-### VM: 2GB RAM, 2 prosessoriydintä
+### VM: 2GB RAM
 
 ## a) Apache (klo 19.30)
 
