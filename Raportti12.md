@@ -120,7 +120,7 @@ Asensin paketin uudestaan, ja apachen käynnistäminen toimii ja sivu näkyy taa
 
 Muutin settings.py -tiedostossa ALLOWED_HOSTS kohdan tyhjäksi, jolloin minkään palvelimeen yhdistämisyrityksen ei pitäisi toimia. 
 
-Nyt saan vastaukseksi 400 Bad Request. Serveri ei siis aio suorittaa pyyntöä, koska host (localhost) ei ole sallittu. 
+Nyt saan vastaukseksi 400 Bad Request. Palvelin ei siis aio suorittaa pyyntöä, koska host (localhost) ei ole sallittu. 
 
 Errorlokissa ei näy tähän liittyen mitään erikoista. 
 
