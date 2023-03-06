@@ -1,6 +1,6 @@
 # Raportti 12, Vianselvitys (Maanantai 6.3.2023)
 
-### OS: MacOS 12.1 Monterey
+### OS: MacOS 12.6.3 Monterey
 ### Virtualisointi: UTM 4.1.6 (https://mac.getutm.app)
 ### Host-tietokone: M1 MacBook Pro 13"
 ### VM: 2GB RAM
