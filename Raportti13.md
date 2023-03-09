@@ -66,10 +66,23 @@ Sain terminaaliin seuraavan vastauksen:
 
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/122888655/223519938-990a1ae4-2944-43d8-b413-ffcc8cd203a7.png">
 
+### Greetme (klo. 14.00 torstaina 9.3)
 
-## Tiivistelmä, lähteet (klo. 20.40)
+Loin python -tiedoston 'greetme.py', johon lisäsin koodin
 
-Raportissa tein kolmella ohjelmointikielellä 'Hei maailma' -sovellukset.
+    $ import sys
+    $ print (f"Hello, {sys.argv[1]}")
+    
+Kokeilin koodin suorittamista, ja se toimii.
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/122888655/224018571-936ac38f-4917-4304-8d25-5beb1c2fae93.png">
+
+<img width="289" alt="image" src="https://user-images.githubusercontent.com/122888655/224018637-42231bfa-7b9e-4d16-8373-72ff23f3a1aa.png">
+
+
+## Tiivistelmä, lähteet (klo. 14.08, torstaina 9.3)
+
+Raportissa tein kolmella ohjelmointikielellä 'Hei maailma' -sovellukset, sekä Pythonilla greetme -sovelluksen.
 
 Lähteet:
 
