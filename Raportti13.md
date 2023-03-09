@@ -86,4 +86,8 @@ Raportissa tein kolmella ohjelmointikielellä 'Hei maailma' -sovellukset, sekä 
 
 Lähteet:
 
-https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/
+https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/ (Pääartikkeli)
+
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-debian-11 (Javan asennus)
+
+https://www.geeksforgeeks.org/command-line-arguments-in-python/ (Command line parametrit Pythonissa)
